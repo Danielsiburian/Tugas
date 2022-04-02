@@ -1,0 +1,1 @@
+(()=>{"use strict";const t=function(){document.addEventListener("DOMContentLoaded",(function(){getBook()}))};t(),document.addEventListener("DOMContentLoaded",t)})();
